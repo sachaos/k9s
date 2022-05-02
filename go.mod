@@ -16,7 +16,7 @@ require (
 	github.com/derailed/tview v0.6.1
 	github.com/drone/envsubst v1.0.2 // indirect
 	github.com/fatih/color v1.10.0
-	github.com/fsnotify/fsnotify v1.4.9
+	github.com/fsnotify/fsnotify v1.5.4
 	github.com/fvbommel/sortorder v1.0.2
 	github.com/gdamore/tcell/v2 v2.3.1
 	github.com/ghodss/yaml v1.0.0
